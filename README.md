@@ -75,4 +75,20 @@ Breakthroughs often emerge **outside established categories**, but many projects
 Develop **original, high-impact AI solutions** that explore new modalities, domains, or approaches while ensuring **user value, ethics, and feasibility**.
 
 ---
+## 5. AI for Smart Cities (Campus as Micro-City)
+**Essence:** Treat campus as a living lab for mobility, utilities, safety, and planning.  
+
+**Problem:**  
+Campuses face **complex operational challenges**—traffic, utilities, space management, and maintenance—but lack **intelligent, real-time, and scalable solutions**. Without smart insights, resources are inefficiently used, safety can be compromised, and maintenance issues cause downtime.  
+
+**Key Pain Points:**  
+- Traffic and footfall management is inefficient.  
+- Waste, water, and energy systems lack predictive management.  
+- Space utilization is poorly monitored; facilities are underused or mismanaged.  
+- Maintenance is reactive, causing downtime in labs and classrooms.  
+- Many solutions need to run **efficiently on low-resource devices** with low latency.  
+
+**Hackathon Challenge:**  
+Design AI solutions that **make campuses smarter and more efficient** by improving **mobility, utilities, space utilization, and maintenance** using real-time, low-latency, and scalable approaches.
+
 
